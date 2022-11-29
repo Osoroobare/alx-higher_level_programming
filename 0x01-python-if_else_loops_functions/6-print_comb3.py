@@ -5,4 +5,4 @@ for number1 in range(0, 10):
             print("{}{}".format(number1, number2), end='')
             if int(str(number1) + str(number2)) != 89:
                 print(end=', ')
-print()            
+print()
